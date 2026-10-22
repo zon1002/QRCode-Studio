@@ -1,0 +1,109 @@
+﻿QRBarcode Studio 軟體授權條款
+QRBarcode Studio Software License Agreement
+
+Copyright (C) 2026 johnsonjs@gmail.com. 保留所有權利。All rights reserved.
+
+本條款有中文與英文兩個版本，中文版本在前，英文版本在後；兩者不一致時，以中文版本為準。
+This agreement is provided in Chinese and English. The Chinese version comes first and the English version follows. If the two versions differ, the Chinese version prevails.
+
+========================================================================
+中文版本
+========================================================================
+
+安裝、複製或使用本軟體，即表示您同意本條款。如果您不同意，請不要安裝或使用本軟體。
+
+第一條　定義
+1. 「本軟體」：QRBarcode Studio 的執行檔、安裝程式、說明文件，以及著作權人提供的更新。
+2. 「著作權人」：本軟體的作者（電子郵件：johnsonjs@gmail.com）。
+3. 「您」：安裝或使用本軟體的個人或組織。
+4. 「商業使用」：在公司、商號、政府機關、學校、非營利組織或其他團體的業務中使用本軟體，或為營利目的使用本軟體，包括但不限於：製作或列印商品、出貨、庫存、資產管理用的條碼或標籤，以及替他人製作條碼或標籤並收取費用。
+5. 「非商業使用」：個人為家庭、學習或其他非營利目的使用本軟體。
+
+第二條　授權
+1. 非商業使用：著作權人免費授權您為非商業使用安裝及使用本軟體，安裝的電腦台數不限。
+2. 商業使用：您必須先向著作權人購買商業授權並支付授權費用，才能進行商業使用。商業授權可以安裝及使用的電腦台數、使用人數與期間，以購買時的約定為準。未取得商業授權即進行商業使用，屬於未經授權的使用。
+3. 本條款只授予您使用本軟體的權利，本軟體的著作權及其他一切權利仍屬於著作權人。
+
+第三條　限制
+除經著作權人書面同意外，您不得：
+1. 出售、出租、出借、轉授權或以其他方式散布本軟體，或把本軟體當作服務提供給第三人使用；
+2. 對本軟體進行還原工程、反組譯或反編譯，但法律明文允許的範圍不在此限；
+3. 修改本軟體，或移除、遮蓋本軟體上的著作權、商標或授權聲明；
+4. 規避本軟體的授權條件，或協助他人這樣做。
+
+第四條　第三方元件
+本軟體包含依各自授權條款提供的第三方開放原始碼元件。這些元件的清單與授權全文分別放在安裝資料夾的 THIRD_PARTY_NOTICES.md 與 THIRD_PARTY_LICENSES.txt。這些元件依其各自的授權條款使用，本條款不限制您依那些授權條款享有的權利。
+
+第五條　商標
+QR Code 是 DENSO WAVE INCORPORATED 的註冊商標。其他名稱屬於各自的權利人。
+
+第六條　資料與隱私
+本軟體在您的電腦上執行，不會透過網路傳送您的資料。設定、範本與列印檔都存放在您的電腦上，由您自行保管與備份。
+
+第七條　免責聲明
+本軟體依「現狀」提供。在法律允許的最大範圍內，著作權人不擔保本軟體沒有錯誤、不會中斷，或適合特定用途。正式使用前，您應自行確認本軟體產生的條碼與標籤可以正確掃描與列印，並符合您適用的標準（例如 GS1）與設備需求。
+
+第八條　責任限制
+在法律允許的最大範圍內，著作權人對於因使用或無法使用本軟體所生的間接、附帶、特別或衍生損害（包括利潤損失、資料遺失、營業中斷，以及標籤、紙張等耗材的損失）不負賠償責任；著作權人對您的賠償總額，以您為本軟體實際支付的授權費用為上限。但因著作權人的故意或重大過失所生的損害，不在此限。
+
+第九條　終止
+您違反本條款時，本條款授予的權利自動終止；終止後，您應停止使用並刪除本軟體的所有複本。第三條、第四條、第七條、第八條與第十條在終止後仍然有效。
+
+第十條　準據法與管轄
+本條款以中華民國（臺灣）法律為準據法。因本條款發生的爭議，雙方同意以臺灣臺北地方法院為第一審管轄法院。
+
+第十一條　其他
+1. 本條款的任何一條被認定無效或無法執行時，其他條款仍然有效。
+2. 本條款構成您與著作權人之間關於本軟體授權的完整約定；商業授權另有書面約定時，以該書面約定為準。
+3. 如需取得商業授權，或對本條款有任何問題，請寄電子郵件至 johnsonjs@gmail.com 與著作權人聯絡。
+
+========================================================================
+English Version
+========================================================================
+
+By installing, copying, or using the Software, you agree to this agreement. If you do not agree, do not install or use the Software.
+
+1. Definitions
+1.1 "Software" means the QRBarcode Studio executable, installer, documentation, and any updates provided by the Copyright Holder.
+1.2 "Copyright Holder" means the author of the Software (email: johnsonjs@gmail.com).
+1.3 "You" means the individual or organization that installs or uses the Software.
+1.4 "Commercial Use" means using the Software in the business of a company, firm, government agency, school, non-profit organization, or any other organization, or using the Software for profit. This includes, without limitation, creating or printing barcodes or labels for products, shipping, inventory, or asset management, and creating barcodes or labels for others for a fee.
+1.5 "Non-Commercial Use" means use by an individual for household, learning, or other non-profit purposes.
+
+2. License Grant
+2.1 Non-Commercial Use: The Copyright Holder grants you a free license to install and use the Software for Non-Commercial Use on any number of computers.
+2.2 Commercial Use: You must purchase a commercial license from the Copyright Holder and pay the license fee before any Commercial Use. The number of computers, the number of users, and the term covered by a commercial license are as agreed at the time of purchase. Commercial Use without a commercial license is unauthorized use.
+2.3 This agreement grants you only the right to use the Software. The copyright and all other rights in the Software remain with the Copyright Holder.
+
+3. Restrictions
+Unless the Copyright Holder agrees in writing, you may not:
+3.1 sell, rent, lend, sublicense, or otherwise distribute the Software, or provide the Software to third parties as a service;
+3.2 reverse engineer, disassemble, or decompile the Software, except to the extent expressly permitted by law;
+3.3 modify the Software, or remove or obscure any copyright, trademark, or license notice in the Software;
+3.4 circumvent the license conditions of the Software, or help others do so.
+
+4. Third-Party Components
+The Software includes third-party open-source components provided under their own licenses. The list of these components and the full license texts are in THIRD_PARTY_NOTICES.md and THIRD_PARTY_LICENSES.txt in the installation folder. These components are used under their own licenses, and this agreement does not limit any rights you have under those licenses.
+
+5. Trademarks
+QR Code is a registered trademark of DENSO WAVE INCORPORATED. Other names belong to their respective owners.
+
+6. Data and Privacy
+The Software runs on your computer and does not send your data over the network. Settings, templates, and print-job files are stored on your computer; you are responsible for keeping and backing them up.
+
+7. Disclaimer of Warranty
+The Software is provided "as is". To the maximum extent permitted by law, the Copyright Holder does not warrant that the Software is free of errors, will operate without interruption, or is fit for a particular purpose. Before relying on the Software, you should verify that the barcodes and labels it produces scan and print correctly and meet the standards (such as GS1) and equipment requirements that apply to you.
+
+8. Limitation of Liability
+To the maximum extent permitted by law, the Copyright Holder is not liable for any indirect, incidental, special, or consequential damages arising from the use of or inability to use the Software, including loss of profits, loss of data, business interruption, and loss of labels, paper, or other consumables. The Copyright Holder's total liability to you is limited to the license fees you actually paid for the Software. This limitation does not apply to damages caused by the Copyright Holder's intentional misconduct or gross negligence.
+
+9. Termination
+If you breach this agreement, the rights granted to you terminate automatically. Upon termination, you must stop using the Software and delete all copies of it. Sections 3, 4, 7, 8, and 10 survive termination.
+
+10. Governing Law and Jurisdiction
+This agreement is governed by the laws of the Republic of China (Taiwan). Both parties agree that the Taiwan Taipei District Court shall be the court of first instance for any dispute arising from this agreement.
+
+11. Miscellaneous
+11.1 If any provision of this agreement is held invalid or unenforceable, the remaining provisions remain in effect.
+11.2 This agreement is the entire agreement between you and the Copyright Holder regarding the license of the Software. If a commercial license is covered by a separate written agreement, that written agreement prevails.
+11.3 To obtain a commercial license, or if you have any questions about this agreement, please contact the Copyright Holder by email at johnsonjs@gmail.com.
