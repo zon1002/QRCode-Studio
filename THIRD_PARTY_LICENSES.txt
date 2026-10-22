@@ -1,14 +1,17 @@
 ﻿第三方元件的授權全文
+Full license texts of the third-party components
 
 QRBarcode Studio 使用下列第三方元件。每個元件先列套件、版本、授權與網址，再附上授權條文；內容相同的條文只印第一次，之後寫明和哪一個元件的條文相同。
+QRBarcode Studio uses the third-party components below. For each component, the package, version, license, and URL come first, followed by the license text; a text identical to an earlier one is printed only once, and later components say which component's text it is the same as.
 
 ========================================================================
 Rust 標準函式庫（編譯時連結進程式）
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-lang/rust
+Rust standard library (linked into the program at build time)
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-lang/rust
 ========================================================================
 
-[Apache-2.0 標準條文]
+[Apache-2.0 標準條文 / Apache-2.0 standard text]
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -83,7 +86,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
 Copyright (c) The Rust Project Developers
@@ -96,15 +99,17 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 accesskit 0.24.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/AccessKit/accesskit
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/AccessKit/accesskit
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：The AccessKit contributors。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: The AccessKit contributors.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
 Copyright (c) The AccessKit contributors
@@ -117,42 +122,50 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 accesskit_consumer 0.35.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/AccessKit/accesskit
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/AccessKit/accesskit
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：The AccessKit contributors。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: The AccessKit contributors.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「accesskit 0.24.1」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「accesskit 0.24.1」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "accesskit 0.24.1" above.
 
 ========================================================================
 accesskit_windows 0.32.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/AccessKit/accesskit
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/AccessKit/accesskit
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：The AccessKit contributors。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: The AccessKit contributors.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「accesskit 0.24.1」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「accesskit 0.24.1」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "accesskit 0.24.1" above.
 
 ========================================================================
 accesskit_winit 0.32.2
-授權：Apache-2.0
-網址：https://github.com/AccessKit/accesskit
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/AccessKit/accesskit
 ========================================================================
 
 這個套件沒有附授權檔，以下是 Apache-2.0 的標準條文；著作權人是套件寫的作者：The AccessKit contributors。
+This package ships no license file; below is the standard text of Apache-2.0, and the copyright holders are the authors named in the package: The AccessKit contributors.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 ========================================================================
 adler2 2.0.1
-授權：0BSD OR MIT OR Apache-2.0
-網址：https://github.com/oyvindln/adler2
+授權 / License: 0BSD OR MIT OR Apache-2.0
+網址 / URL: https://github.com/oyvindln/adler2
 ========================================================================
 
 [LICENSE-0BSD]
@@ -399,11 +412,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 ahash 0.8.12
-授權：MIT OR Apache-2.0
-網址：https://github.com/tkaitchuck/ahash
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/tkaitchuck/ahash
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2018 Tom Kaitchuck
@@ -434,8 +448,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 arboard 3.7.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/1Password/arboard
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/1Password/arboard
 ========================================================================
 
 [LICENSE-APACHE.txt]
@@ -642,11 +656,12 @@ SOFTWARE.
 
 ========================================================================
 argon2 0.5.3
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/password-hashes/tree/master/argon2
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/password-hashes/tree/master/argon2
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2021-2024 The RustCrypto Project Developers
@@ -677,8 +692,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 arrayref 0.3.9
-授權：BSD-2-Clause
-網址：https://github.com/droundy/arrayref
+授權 / License: BSD-2-Clause
+網址 / URL: https://github.com/droundy/arrayref
 ========================================================================
 
 [LICENSE]
@@ -711,11 +726,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ========================================================================
 arrayvec 0.7.8
-授權：MIT OR Apache-2.0
-網址：https://github.com/bluss/arrayvec
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/bluss/arrayvec
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) Ulrik Sverdrup "bluss" 2015-2023
@@ -746,8 +762,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 atoi_simd 0.18.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/RoDmitry/atoi_simd
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RoDmitry/atoi_simd
 ========================================================================
 
 [LICENSE-APACHE]
@@ -982,11 +998,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 base64 0.22.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/marshallpierce/rust-base64
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/marshallpierce/rust-base64
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 The MIT License (MIT)
@@ -1013,11 +1030,12 @@ THE SOFTWARE.
 
 ========================================================================
 base64ct 1.8.3
-授權：Apache-2.0 OR MIT
-網址：https://github.com/RustCrypto/formats
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/RustCrypto/formats
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2014 Steve "Sc00bz" Thomas (steve at tobtu dot com)
@@ -1049,11 +1067,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 bitflags 2.13.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/bitflags/bitflags
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/bitflags/bitflags
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2014 The Rust Project Developers
@@ -1084,11 +1103,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 blake2 0.10.6
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/hashes
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/hashes
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2015-2016 The blake2-rfc Developers, Cesar Barros
@@ -1120,11 +1140,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 block-buffer 0.10.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/utils
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/utils
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2018-2019 The RustCrypto Project Developers
@@ -1155,11 +1176,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 bumpalo 3.20.3
-授權：MIT OR Apache-2.0
-網址：https://github.com/fitzgen/bumpalo
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/fitzgen/bumpalo
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2019 Nick Fitzgerald
@@ -1190,11 +1212,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 bytemuck 1.25.2
-授權：Zlib OR Apache-2.0 OR MIT
-網址：https://github.com/Lokathor/bytemuck
+授權 / License: Zlib OR Apache-2.0 OR MIT
+網址 / URL: https://github.com/Lokathor/bytemuck
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 MIT License
@@ -1222,20 +1245,23 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 ========================================================================
 bytemuck_derive 1.12.1
-授權：Zlib OR Apache-2.0 OR MIT
-網址：https://github.com/Lokathor/bytemuck
+授權 / License: Zlib OR Apache-2.0 OR MIT
+網址 / URL: https://github.com/Lokathor/bytemuck
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「bytemuck 1.25.2」的條文相同。
+[LICENSE-MIT] Same text as "bytemuck 1.25.2" above.
 
 [LICENSE-ZLIB] 和上面「bytemuck 1.25.2」的條文相同。
+[LICENSE-ZLIB] Same text as "bytemuck 1.25.2" above.
 
 ========================================================================
 byteorder 1.5.0
-授權：Unlicense OR MIT
-網址：https://github.com/BurntSushi/byteorder
+授權 / License: Unlicense OR MIT
+網址 / URL: https://github.com/BurntSushi/byteorder
 ========================================================================
 
 [COPYING]
@@ -1294,18 +1320,20 @@ For more information, please refer to <http://unlicense.org/>
 
 ========================================================================
 byteorder-lite 0.1.0
-授權：Unlicense OR MIT
-網址：https://github.com/image-rs/byteorder-lite
+授權 / License: Unlicense OR MIT
+網址 / URL: https://github.com/image-rs/byteorder-lite
 ========================================================================
 
 [LICENSE-MIT] 和上面「byteorder 1.5.0」的條文相同。
+[LICENSE-MIT] Same text as "byteorder 1.5.0" above.
 
 [UNLICENSE] 和上面「byteorder 1.5.0」的條文相同。
+[UNLICENSE] Same text as "byteorder 1.5.0" above.
 
 ========================================================================
 calamine 0.36.1
-授權：MIT
-網址：https://github.com/tafia/calamine
+授權 / License: MIT
+網址 / URL: https://github.com/tafia/calamine
 ========================================================================
 
 [LICENSE-MIT.md]
@@ -1335,11 +1363,12 @@ THE SOFTWARE.
 
 ========================================================================
 cfg-if 1.0.5
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-lang/cfg-if
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-lang/cfg-if
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2014 Alex Crichton
@@ -1370,13 +1399,14 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 clipboard-win 5.4.1
-授權：BSL-1.0
-網址：https://github.com/DoumanAsh/clipboard-win
+授權 / License: BSL-1.0
+網址 / URL: https://github.com/DoumanAsh/clipboard-win
 ========================================================================
 
 這個套件沒有附授權檔，以下是 BSL-1.0 的標準條文；著作權人是套件寫的作者：Douman <douman@gmx.se>。
+This package ships no license file; below is the standard text of BSL-1.0, and the copyright holders are the authors named in the package: Douman <douman@gmx.se>.
 
-[BSL-1.0 標準條文]
+[BSL-1.0 標準條文 / BSL-1.0 standard text]
 Boost Software License - Version 1.0 - August 17th, 2003
 
 Permission is hereby granted, free of charge, to any person or organization
@@ -1403,8 +1433,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 codepage 0.1.3
-授權：Apache-2.0 OR MIT
-網址：https://github.com/hsivonen/codepage
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/hsivonen/codepage
 ========================================================================
 
 [COPYRIGHT]
@@ -1418,7 +1448,8 @@ at your option. All files in the project carrying such
 notice may not be copied, modified, or distributed except
 according to those terms.
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright Mozilla Foundation
@@ -1449,11 +1480,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 color 0.3.3
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/color
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/color
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT]
 MIT License
@@ -1478,11 +1510,12 @@ SOFTWARE.
 
 ========================================================================
 core_detect 1.0.0
-授權：MIT/Apache-2.0
-網址：https://github.com/thomcc/core_detect
+授權 / License: MIT/Apache-2.0
+網址 / URL: https://github.com/thomcc/core_detect
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2017-2020 The Rust Project Developers
@@ -1513,11 +1546,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 cpufeatures 0.2.17
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/utils
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/utils
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2020-2025 The RustCrypto Project Developers
@@ -1548,8 +1582,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 crc32fast 1.5.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/srijs/rust-crc32fast
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/srijs/rust-crc32fast
 ========================================================================
 
 [LICENSE-APACHE]
@@ -1780,11 +1814,12 @@ SOFTWARE.
 
 ========================================================================
 crypto-common 0.1.7
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/traits
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/traits
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2021 RustCrypto Developers
@@ -1815,32 +1850,38 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 csv 1.4.0
-授權：Unlicense/MIT
-網址：https://github.com/BurntSushi/rust-csv
+授權 / License: Unlicense/MIT
+網址 / URL: https://github.com/BurntSushi/rust-csv
 ========================================================================
 
 [COPYING] 和上面「byteorder 1.5.0」的條文相同。
+[COPYING] Same text as "byteorder 1.5.0" above.
 
 [LICENSE-MIT] 和上面「byteorder 1.5.0」的條文相同。
+[LICENSE-MIT] Same text as "byteorder 1.5.0" above.
 
 [UNLICENSE] 和上面「byteorder 1.5.0」的條文相同。
+[UNLICENSE] Same text as "byteorder 1.5.0" above.
 
 ========================================================================
 csv-core 0.1.13
-授權：Unlicense/MIT
-網址：https://github.com/BurntSushi/rust-csv
+授權 / License: Unlicense/MIT
+網址 / URL: https://github.com/BurntSushi/rust-csv
 ========================================================================
 
 [COPYING] 和上面「byteorder 1.5.0」的條文相同。
+[COPYING] Same text as "byteorder 1.5.0" above.
 
 [LICENSE-MIT] 和上面「byteorder 1.5.0」的條文相同。
+[LICENSE-MIT] Same text as "byteorder 1.5.0" above.
 
 [UNLICENSE] 和上面「byteorder 1.5.0」的條文相同。
+[UNLICENSE] Same text as "byteorder 1.5.0" above.
 
 ========================================================================
 cursor-icon 1.2.0
-授權：MIT OR Apache-2.0 OR Zlib
-網址：https://github.com/rust-windowing/cursor-icon
+授權 / License: MIT OR Apache-2.0 OR Zlib
+網址 / URL: https://github.com/rust-windowing/cursor-icon
 ========================================================================
 
 [LICENSE-APACHE]
@@ -2083,8 +2124,8 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 ========================================================================
 debug_unsafe 0.1.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/RoDmitry/debug_unsafe
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RoDmitry/debug_unsafe
 ========================================================================
 
 [LICENSE-APACHE]
@@ -2319,11 +2360,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 digest 0.10.7
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/traits
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/traits
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2017 Artyom Pavlov
@@ -2354,11 +2396,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 document-features 0.2.12
-授權：MIT OR Apache-2.0
-網址：https://github.com/slint-ui/document-features
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/slint-ui/document-features
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2020 Olivier Goffart <ogoffart@sixtyfps.io>
@@ -2383,11 +2426,12 @@ SOFTWARE.
 
 ========================================================================
 dpi 0.1.2
-授權：Apache-2.0 AND MIT
-網址：https://github.com/rust-windowing/winit
+授權 / License: Apache-2.0 AND MIT
+網址 / URL: https://github.com/rust-windowing/winit
 ========================================================================
 
 [LICENSE] 和上面「crc32fast 1.5.2」的條文相同。
+[LICENSE] Same text as "crc32fast 1.5.2" above.
 
 [LICENSE-LIBM-MIT]
 rust-lang/libm as a whole is available for use under the MIT license:
@@ -2444,18 +2488,20 @@ have been licensed under extremely permissive terms.
 
 ========================================================================
 ecolor 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui
 ========================================================================
 
-這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>、Andreas Reich <reichandreas@gmx.de>。
+這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>, Andreas Reich <reichandreas@gmx.de>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>, Andreas Reich <reichandreas@gmx.de>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
-Copyright (c) Emil Ernerfeldt <emil.ernerfeldt@gmail.com>、Andreas Reich <reichandreas@gmx.de>
+Copyright (c) Emil Ernerfeldt <emil.ernerfeldt@gmail.com>, Andreas Reich <reichandreas@gmx.de>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -2465,15 +2511,17 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 eframe 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui/tree/main/crates/eframe
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui/tree/main/crates/eframe
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
 Copyright (c) Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
@@ -2486,30 +2534,35 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 egui 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "eframe 0.36.2" above.
 
 ========================================================================
 egui_extras 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui
 ========================================================================
 
-這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Dominik R繹ssler <dominik@freshx.de>、Emil Ernerfeldt <emil.ernerfeldt@gmail.com>、Ren矇 R繹ssler <rene@freshx.de>。
+這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Dominik Rössler <dominik@freshx.de>, Emil Ernerfeldt <emil.ernerfeldt@gmail.com>, René Rössler <rene@freshx.de>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Dominik Rössler <dominik@freshx.de>, Emil Ernerfeldt <emil.ernerfeldt@gmail.com>, René Rössler <rene@freshx.de>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
-Copyright (c) Dominik R繹ssler <dominik@freshx.de>、Emil Ernerfeldt <emil.ernerfeldt@gmail.com>、Ren矇 R繹ssler <rene@freshx.de>
+Copyright (c) Dominik Rössler <dominik@freshx.de>, Emil Ernerfeldt <emil.ernerfeldt@gmail.com>, René Rössler <rene@freshx.de>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -2519,35 +2572,42 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 egui_glow 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui/tree/main/crates/egui_glow
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui/tree/main/crates/egui_glow
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "eframe 0.36.2" above.
 
 ========================================================================
 egui-winit 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui/tree/main/crates/egui-winit
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui/tree/main/crates/egui-winit
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "eframe 0.36.2" above.
 
 ========================================================================
 either 1.19.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/rayon-rs/either
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rayon-rs/either
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2015
@@ -2578,20 +2638,23 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 emath 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui/tree/main/crates/emath
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui/tree/main/crates/emath
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "eframe 0.36.2" above.
 
 ========================================================================
 encoding_rs 0.8.42
-授權：(Apache-2.0 OR MIT) AND BSD-3-Clause
-網址：https://github.com/hsivonen/encoding_rs
+授權 / License: (Apache-2.0 OR MIT) AND BSD-3-Clause
+網址 / URL: https://github.com/hsivonen/encoding_rs
 ========================================================================
 
 [COPYRIGHT]
@@ -2613,9 +2676,11 @@ source code, are licensed under the BSD 3-Clause License
 Test code within encoding_rs is dedicated to the Public Domain when so
 designated (see the individual files for PD/CC0-dedicated sections).
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「codepage 0.1.3」的條文相同。
+[LICENSE-MIT] Same text as "codepage 0.1.3" above.
 
 [LICENSE-WHATWG]
 Copyright © WHATWG (Apple, Google, Mozilla, Microsoft).
@@ -2647,15 +2712,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ========================================================================
 enum-map 2.7.3
-授權：MIT OR Apache-2.0
-網址：https://codeberg.org/xfix/enum-map
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://codeberg.org/xfix/enum-map
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Kamila Borowska <kamila@borowska.pw>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Kamila Borowska <kamila@borowska.pw>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
 Copyright (c) Kamila Borowska <kamila@borowska.pw>
@@ -2668,42 +2735,50 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 enum-map-derive 0.17.0
-授權：MIT OR Apache-2.0
-網址：https://codeberg.org/xfix/enum-map
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://codeberg.org/xfix/enum-map
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Kamila Borowska <kamila@borowska.pw>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Kamila Borowska <kamila@borowska.pw>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「enum-map 2.7.3」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「enum-map 2.7.3」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "enum-map 2.7.3" above.
 
 ========================================================================
 enumn 0.1.14
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/enumn
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/enumn
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 epaint 0.36.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/emilk/egui/tree/main/crates/epaint
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/emilk/egui/tree/main/crates/epaint
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Emil Ernerfeldt <emil.ernerfeldt@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] 和上面「eframe 0.36.2」的條文相同。
+[MIT 標準條文 / MIT standard text] Same text as "eframe 0.36.2" above.
 
 ========================================================================
 epaint_default_fonts 0.36.2
-授權：(MIT OR Apache-2.0) AND OFL-1.1 AND Ubuntu-font-1.0
-網址：https://github.com/emilk/egui/tree/main/crates/epaint_default_fonts
+授權 / License: (MIT OR Apache-2.0) AND OFL-1.1 AND Ubuntu-font-1.0
+網址 / URL: https://github.com/emilk/egui/tree/main/crates/epaint_default_fonts
 ========================================================================
 
 [fonts\emoji-icon-font-mit-license.txt]
@@ -2944,11 +3019,12 @@ DEALINGS IN THE FONT SOFTWARE.
 
 ========================================================================
 equivalent 1.0.3
-授權：Apache-2.0 OR MIT
-網址：https://github.com/indexmap-rs/equivalent
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/indexmap-rs/equivalent
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2016--2023
@@ -2979,16 +3055,17 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 error-code 3.4.0
-授權：BSL-1.0
-網址：https://github.com/DoumanAsh/error-code
+授權 / License: BSL-1.0
+網址 / URL: https://github.com/DoumanAsh/error-code
 ========================================================================
 
 [LICENSE] 和上面「clipboard-win 5.4.1」的條文相同。
+[LICENSE] Same text as "clipboard-win 5.4.1" above.
 
 ========================================================================
 euclid 0.22.14
-授權：MIT OR Apache-2.0
-網址：https://github.com/servo/euclid
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/servo/euclid
 ========================================================================
 
 [COPYRIGHT]
@@ -2998,7 +3075,8 @@ http://www.apache.org/licenses/LICENSE-2.0> or the MIT license
 option. All files in the project carrying such notice may not be
 copied, modified, or distributed except according to those terms.
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2012-2013 Mozilla Foundation
@@ -3029,8 +3107,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 fast-float2 0.2.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/Alexhuszagh/fast-float-rust
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/Alexhuszagh/fast-float-rust
 ========================================================================
 
 [LICENSE-APACHE]
@@ -3237,24 +3315,28 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 fdeflate 0.3.7
-授權：MIT OR Apache-2.0
-網址：https://github.com/image-rs/fdeflate
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/image-rs/fdeflate
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「color 0.3.3」的條文相同。
+[LICENSE-MIT] Same text as "color 0.3.3" above.
 
 ========================================================================
 fearless_simd 0.4.1
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/fearless_simd
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/fearless_simd
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT]
 Copyright (c) 2018 Raph Levien
@@ -3285,11 +3367,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 flate2 1.1.10
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-lang/flate2-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-lang/flate2-rs
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2014-2026 Alex Crichton
@@ -3320,8 +3403,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 foldhash 0.2.0
-授權：Zlib
-網址：https://github.com/orlp/foldhash
+授權 / License: Zlib
+網址 / URL: https://github.com/orlp/foldhash
 ========================================================================
 
 [LICENSE]
@@ -3347,8 +3430,8 @@ the following restrictions:
 
 ========================================================================
 font-types 0.12.7
-授權：MIT OR Apache-2.0
-網址：https://github.com/googlefonts/fontations
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/googlefonts/fontations
 ========================================================================
 
 [LICENSE-APACHE]
@@ -3449,8 +3532,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 generic-array 0.14.7
-授權：MIT
-網址：https://github.com/fizyk20/generic-array.git
+授權 / License: MIT
+網址 / URL: https://github.com/fizyk20/generic-array.git
 ========================================================================
 
 [LICENSE]
@@ -3478,8 +3561,8 @@ SOFTWARE.
 
 ========================================================================
 getrandom 0.2.17
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-random/getrandom
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-random/getrandom
 ========================================================================
 
 [LICENSE-APACHE]
@@ -3715,13 +3798,15 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 glow 0.17.0
-授權：MIT OR Apache-2.0 OR Zlib
-網址：https://github.com/grovesNL/glow
+授權 / License: MIT OR Apache-2.0 OR Zlib
+網址 / URL: https://github.com/grovesNL/glow
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 [LICENSE-ZLIB]
 This software is provided 'as-is', without any express or implied
@@ -3742,8 +3827,8 @@ freely, subject to the following restrictions:
 
 ========================================================================
 glutin 0.32.3
-授權：Apache-2.0
-網址：https://github.com/rust-windowing/glutin
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/rust-windowing/glutin
 ========================================================================
 
 [LICENSE]
@@ -3951,24 +4036,26 @@ Apache License
 
 ========================================================================
 glutin_egl_sys 0.7.1
-授權：Apache-2.0
-網址：https://github.com/rust-windowing/glutin
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/rust-windowing/glutin
 ========================================================================
 
 [LICENSE] 和上面「glutin 0.32.3」的條文相同。
+[LICENSE] Same text as "glutin 0.32.3" above.
 
 ========================================================================
 glutin_wgl_sys 0.6.1
-授權：Apache-2.0
-網址：https://github.com/rust-windowing/glutin
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/rust-windowing/glutin
 ========================================================================
 
 [LICENSE] 和上面「glutin 0.32.3」的條文相同。
+[LICENSE] Same text as "glutin 0.32.3" above.
 
 ========================================================================
 glutin-winit 0.5.0
-授權：MIT
-網址：https://github.com/rust-windowing/glutin
+授權 / License: MIT
+網址 / URL: https://github.com/rust-windowing/glutin
 ========================================================================
 
 [LICENSE]
@@ -3994,8 +4081,8 @@ SOFTWARE.
 
 ========================================================================
 guillotiere 0.7.0
-授權：MIT/Apache-2.0
-網址：https://github.com/nical/guillotiere
+授權 / License: MIT/Apache-2.0
+網址 / URL: https://github.com/nical/guillotiere
 ========================================================================
 
 [LICENSE-APACHE]
@@ -4037,8 +4124,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 harfrust 0.12.0
-授權：MIT
-網址：https://github.com/harfbuzz/harfrust
+授權 / License: MIT
+網址 / URL: https://github.com/harfbuzz/harfrust
 ========================================================================
 
 [LICENSE]
@@ -4067,11 +4154,12 @@ SOFTWARE.
 
 ========================================================================
 hashbrown 0.16.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-lang/hashbrown
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-lang/hashbrown
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2016 Amanieu d'Antras
@@ -4102,41 +4190,48 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 hashbrown 0.17.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-lang/hashbrown
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-lang/hashbrown
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「hashbrown 0.16.1」的條文相同。
+[LICENSE-MIT] Same text as "hashbrown 0.16.1" above.
 
 ========================================================================
 image 0.25.10
-授權：MIT OR Apache-2.0
-網址：https://github.com/image-rs/image
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/image-rs/image
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「color 0.3.3」的條文相同。
+[LICENSE-MIT] Same text as "color 0.3.3" above.
 
 ========================================================================
 image-webp 0.2.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/image-rs/image-webp
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/image-rs/image-webp
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「color 0.3.3」的條文相同。
+[LICENSE-MIT] Same text as "color 0.3.3" above.
 
 ========================================================================
 indexmap 2.14.2
-授權：Apache-2.0 OR MIT
-網址：https://github.com/indexmap-rs/indexmap
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/indexmap-rs/indexmap
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2016--2017
@@ -4167,38 +4262,44 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 itertools 0.15.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-itertools/itertools
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-itertools/itertools
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「either 1.19.0」的條文相同。
+[LICENSE-MIT] Same text as "either 1.19.0" above.
 
 ========================================================================
 itoa 1.0.18
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/itoa
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/itoa
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 kurbo 0.13.1
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/kurbo
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/kurbo
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「fearless_simd 0.4.1」的條文相同。
+[LICENSE-MIT] Same text as "fearless_simd 0.4.1" above.
 
 ========================================================================
 libloading 0.8.9
-授權：ISC
-網址：https://github.com/nagisa/rust_libloading/
+授權 / License: ISC
+網址 / URL: https://github.com/nagisa/rust_libloading/
 ========================================================================
 
 [LICENSE]
@@ -4217,21 +4318,24 @@ THIS SOFTWARE.
 
 ========================================================================
 linebender_resource_handle 0.1.1
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/raw_resource_handle
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/raw_resource_handle
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「color 0.3.3」的條文相同。
+[LICENSE-MIT] Same text as "color 0.3.3" above.
 
 ========================================================================
 litrs 1.0.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/LukasKalbertodt/litrs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/LukasKalbertodt/litrs
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT]
 Copyright (c) 2020 Project Developers
@@ -4262,11 +4366,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 lock_api 0.4.14
-授權：MIT OR Apache-2.0
-網址：https://github.com/Amanieu/parking_lot
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/Amanieu/parking_lot
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2016 The Rust Project Developers
@@ -4297,30 +4402,35 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 log 0.4.34
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-lang/log
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-lang/log
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「bitflags 2.13.2」的條文相同。
+[LICENSE-MIT] Same text as "bitflags 2.13.2" above.
 
 ========================================================================
 memchr 2.8.3
-授權：Unlicense OR MIT
-網址：https://github.com/BurntSushi/memchr
+授權 / License: Unlicense OR MIT
+網址 / URL: https://github.com/BurntSushi/memchr
 ========================================================================
 
 [COPYING] 和上面「byteorder 1.5.0」的條文相同。
+[COPYING] Same text as "byteorder 1.5.0" above.
 
 [LICENSE-MIT] 和上面「byteorder 1.5.0」的條文相同。
+[LICENSE-MIT] Same text as "byteorder 1.5.0" above.
 
 [UNLICENSE] 和上面「byteorder 1.5.0」的條文相同。
+[UNLICENSE] Same text as "byteorder 1.5.0" above.
 
 ========================================================================
 miniz_oxide 0.8.9
-授權：MIT OR Zlib OR Apache-2.0
-網址：https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+授權 / License: MIT OR Zlib OR Apache-2.0
+網址 / URL: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
 ========================================================================
 
 [LICENSE]
@@ -4351,8 +4461,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [LICENSE-APACHE.md] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE.md] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT.md] 和上面「miniz_oxide 0.8.9」的條文相同。
+[LICENSE-MIT.md] Same text as "miniz_oxide 0.8.9" above.
 
 [LICENSE-ZLIB.md]
 Copyright 2013-2014 RAD Game Tools and Valve Software
@@ -4372,22 +4484,26 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 ========================================================================
 miniz_oxide 0.9.1
-授權：MIT OR Zlib OR Apache-2.0
-網址：https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+授權 / License: MIT OR Zlib OR Apache-2.0
+網址 / URL: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
 ========================================================================
 
 [LICENSE] 和上面「miniz_oxide 0.8.9」的條文相同。
+[LICENSE] Same text as "miniz_oxide 0.8.9" above.
 
 [LICENSE-APACHE.md] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE.md] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT.md] 和上面「miniz_oxide 0.8.9」的條文相同。
+[LICENSE-MIT.md] Same text as "miniz_oxide 0.8.9" above.
 
 [LICENSE-ZLIB.md] 和上面「miniz_oxide 0.8.9」的條文相同。
+[LICENSE-ZLIB.md] Same text as "miniz_oxide 0.8.9" above.
 
 ========================================================================
 moxcms 0.8.1
-授權：BSD-3-Clause OR Apache-2.0
-網址：https://github.com/awxkee/moxcms.git
+授權 / License: BSD-3-Clause OR Apache-2.0
+網址 / URL: https://github.com/awxkee/moxcms.git
 ========================================================================
 
 [LICENSE.md]
@@ -4623,8 +4739,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ========================================================================
 multiversion_no_op 1.0.0
-授權：Apache-2.0 OR MIT
-網址：https://github.com/hsivonen/multiversion_no_op
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/hsivonen/multiversion_no_op
 ========================================================================
 
 [COPYRIGHT]
@@ -4644,17 +4760,20 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the Licenses for the specific language governing permissions and
 limitations under the Licenses.
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「codepage 0.1.3」的條文相同。
+[LICENSE-MIT] Same text as "codepage 0.1.3" above.
 
 ========================================================================
 nohash-hasher 0.2.0
-授權：Apache-2.0 OR MIT
-網址：https://github.com/paritytech/nohash-hasher
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/paritytech/nohash-hasher
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright 2018 Parity Technologies (UK) Ltd.
@@ -4678,51 +4797,60 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 num-traits 0.2.19
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-num/num-traits
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-num/num-traits
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「bitflags 2.13.2」的條文相同。
+[LICENSE-MIT] Same text as "bitflags 2.13.2" above.
 
 ========================================================================
 once_cell 1.21.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/matklad/once_cell
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/matklad/once_cell
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 parking_lot 0.12.5
-授權：MIT OR Apache-2.0
-網址：https://github.com/Amanieu/parking_lot
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/Amanieu/parking_lot
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「lock_api 0.4.14」的條文相同。
+[LICENSE-MIT] Same text as "lock_api 0.4.14" above.
 
 ========================================================================
 parking_lot_core 0.9.12
-授權：MIT OR Apache-2.0
-網址：https://github.com/Amanieu/parking_lot
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/Amanieu/parking_lot
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「lock_api 0.4.14」的條文相同。
+[LICENSE-MIT] Same text as "lock_api 0.4.14" above.
 
 ========================================================================
 password-hash 0.5.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/RustCrypto/traits/tree/master/password-hash
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/RustCrypto/traits/tree/master/password-hash
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2020-2023 RustCrypto Developers
@@ -4753,31 +4881,36 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 peniko 0.6.1
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/peniko
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/peniko
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「fearless_simd 0.4.1」的條文相同。
+[LICENSE-MIT] Same text as "fearless_simd 0.4.1" above.
 
 ========================================================================
 pin-project-lite 0.2.17
-授權：Apache-2.0 OR MIT
-網址：https://github.com/taiki-e/pin-project-lite
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/taiki-e/pin-project-lite
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 png 0.18.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/image-rs/image-png
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/image-rs/image-png
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2015 nwin
@@ -4808,35 +4941,41 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 polycool 0.4.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/linebender/kurbo
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/linebender/kurbo
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「fearless_simd 0.4.1」的條文相同。
+[LICENSE-MIT] Same text as "fearless_simd 0.4.1" above.
 
 ========================================================================
 proc-macro2 1.0.107
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/proc-macro2
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/proc-macro2
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 profiling 1.0.18
-授權：MIT OR Apache-2.0
-網址：https://github.com/aclysma/profiling
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/aclysma/profiling
 ========================================================================
 
 這個套件沒有附授權檔，以下是 MIT OR Apache-2.0 的標準條文；著作權人是套件寫的作者：Philip Degarmo <aclysma@gmail.com>。
+This package ships no license file; below is the standard text of MIT OR Apache-2.0, and the copyright holders are the authors named in the package: Philip Degarmo <aclysma@gmail.com>.
 
-[Apache-2.0 標準條文] 和上面「Rust 標準函式庫」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[Apache-2.0 標準條文 / Apache-2.0 standard text] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
-[MIT 標準條文]
+[MIT 標準條文 / MIT standard text]
 MIT License
 
 Copyright (c) Philip Degarmo <aclysma@gmail.com>
@@ -4849,21 +4988,24 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ========================================================================
 pxfm 0.1.30
-授權：BSD-3-Clause OR Apache-2.0
-網址：https://github.com/awxkee/pxfm
+授權 / License: BSD-3-Clause OR Apache-2.0
+網址 / URL: https://github.com/awxkee/pxfm
 ========================================================================
 
 [LICENSE.md] 和上面「moxcms 0.8.1」的條文相同。
+[LICENSE.md] Same text as "moxcms 0.8.1" above.
 
 [LICENSE-APACHE.md] 和上面「moxcms 0.8.1」的條文相同。
+[LICENSE-APACHE.md] Same text as "moxcms 0.8.1" above.
 
 ========================================================================
 quick-error 2.0.1
-授權：MIT/Apache-2.0
-網址：http://github.com/tailhook/quick-error
+授權 / License: MIT/Apache-2.0
+網址 / URL: http://github.com/tailhook/quick-error
 ========================================================================
 
 [LICENSE-APACHE] 和上面「crc32fast 1.5.2」的條文相同。
+[LICENSE-APACHE] Same text as "crc32fast 1.5.2" above.
 
 [LICENSE-MIT]
 Copyright (c) 2015 The quick-error Developers
@@ -4888,26 +5030,29 @@ SOFTWARE.
 
 ========================================================================
 quick-xml 0.41.0
-授權：MIT
-網址：https://github.com/tafia/quick-xml
+授權 / License: MIT
+網址 / URL: https://github.com/tafia/quick-xml
 ========================================================================
 
 [LICENSE-MIT.md] 和上面「calamine 0.36.1」的條文相同。
+[LICENSE-MIT.md] Same text as "calamine 0.36.1" above.
 
 ========================================================================
 quote 1.0.47
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/quote
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/quote
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 rand_core 0.6.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-random/rand
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-random/rand
 ========================================================================
 
 [COPYRIGHT]
@@ -5143,11 +5288,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 raw-window-handle 0.6.2
-授權：MIT OR Apache-2.0 OR Zlib
-網址：https://github.com/rust-windowing/raw-window-handle
+授權 / License: MIT OR Apache-2.0 OR Zlib
+網址 / URL: https://github.com/rust-windowing/raw-window-handle
 ========================================================================
 
 [LICENSE-APACHE.md] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE.md] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT.md]
 MIT License
@@ -5187,18 +5333,20 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 ========================================================================
 read-fonts 0.41.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/googlefonts/fontations
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/googlefonts/fontations
 ========================================================================
 
 [LICENSE-APACHE] 和上面「font-types 0.12.7」的條文相同。
+[LICENSE-APACHE] Same text as "font-types 0.12.7" above.
 
 [LICENSE-MIT] 和上面「font-types 0.12.7」的條文相同。
+[LICENSE-MIT] Same text as "font-types 0.12.7" above.
 
 ========================================================================
 rfd 0.17.2
-授權：MIT
-網址：https://github.com/PolyMeilex/rfd
+授權 / License: MIT
+網址 / URL: https://github.com/PolyMeilex/rfd
 ========================================================================
 
 [LICENSE]
@@ -5226,11 +5374,12 @@ SOFTWARE.
 
 ========================================================================
 ron 0.12.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/ron-rs/ron
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/ron-rs/ron
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2017 RON developers
@@ -5261,31 +5410,36 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 rustversion 1.0.23
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/rustversion
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/rustversion
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 ryu 1.0.23
-授權：Apache-2.0 OR BSL-1.0
-網址：https://github.com/dtolnay/ryu
+授權 / License: Apache-2.0 OR BSL-1.0
+網址 / URL: https://github.com/dtolnay/ryu
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-BOOST] 和上面「clipboard-win 5.4.1」的條文相同。
+[LICENSE-BOOST] Same text as "clipboard-win 5.4.1" above.
 
 ========================================================================
 scopeguard 1.2.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/bluss/scopeguard
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/bluss/scopeguard
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2016-2019 Ulrik Sverdrup "bluss" and scopeguard developers
@@ -5316,11 +5470,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 self_cell 1.3.0
-授權：Apache-2.0 OR GPL-2.0-only
-網址：https://github.com/Voultapher/self_cell
+授權 / License: Apache-2.0 OR GPL-2.0-only
+網址 / URL: https://github.com/Voultapher/self_cell
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-GPLv2]
                     GNU GENERAL PUBLIC LICENSE
@@ -5665,48 +5820,56 @@ Public License instead of this License.
 
 ========================================================================
 serde 1.0.229
-授權：MIT OR Apache-2.0
-網址：https://github.com/serde-rs/serde
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/serde-rs/serde
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 serde_core 1.0.229
-授權：MIT OR Apache-2.0
-網址：https://github.com/serde-rs/serde
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/serde-rs/serde
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 serde_derive 1.0.229
-授權：MIT OR Apache-2.0
-網址：https://github.com/serde-rs/serde
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/serde-rs/serde
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 serde_json 1.0.154
-授權：MIT OR Apache-2.0
-網址：https://github.com/serde-rs/json
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/serde-rs/json
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 simd-adler32 0.3.10
-授權：MIT
-網址：https://github.com/mcountryman/simd-adler32
+授權 / License: MIT
+網址 / URL: https://github.com/mcountryman/simd-adler32
 ========================================================================
 
 [LICENSE.md]
@@ -5734,31 +5897,36 @@ SOFTWARE.
 
 ========================================================================
 simdutf8 0.1.5
-授權：MIT OR Apache-2.0
-網址：https://github.com/rusticstuff/simdutf8
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rusticstuff/simdutf8
 ========================================================================
 
 [LICENSE-Apache] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-Apache] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「color 0.3.3」的條文相同。
+[LICENSE-MIT] Same text as "color 0.3.3" above.
 
 ========================================================================
 skrifa 0.44.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/googlefonts/fontations
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/googlefonts/fontations
 ========================================================================
 
 [LICENSE-APACHE] 和上面「font-types 0.12.7」的條文相同。
+[LICENSE-APACHE] Same text as "font-types 0.12.7" above.
 
 [LICENSE-MIT] 和上面「font-types 0.12.7」的條文相同。
+[LICENSE-MIT] Same text as "font-types 0.12.7" above.
 
 ========================================================================
 smallvec 1.16.3
-授權：MIT OR Apache-2.0
-網址：https://github.com/servo/rust-smallvec
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/servo/rust-smallvec
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2018 The Servo Project Developers
@@ -5789,21 +5957,24 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 smol_str 0.2.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/rust-analyzer/smol_str
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/rust-analyzer/smol_str
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 static_assertions 1.1.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/nvzqz/static-assertions-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/nvzqz/static-assertions-rs
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 MIT License
@@ -5830,8 +6001,8 @@ SOFTWARE.
 
 ========================================================================
 strict-num 0.1.1
-授權：MIT
-網址：https://github.com/RazrFalcon/strict-num
+授權 / License: MIT
+網址 / URL: https://github.com/RazrFalcon/strict-num
 ========================================================================
 
 [LICENSE]
@@ -5857,8 +6028,8 @@ THE SOFTWARE.
 
 ========================================================================
 subtle 2.6.1
-授權：BSD-3-Clause
-網址：https://github.com/dalek-cryptography/subtle
+授權 / License: BSD-3-Clause
+網址 / URL: https://github.com/dalek-cryptography/subtle
 ========================================================================
 
 [LICENSE]
@@ -5894,48 +6065,56 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ========================================================================
 syn 2.0.119
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/syn
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/syn
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 syn 3.0.9
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/syn
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/syn
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 thiserror 2.0.21
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/thiserror
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/thiserror
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 thiserror-impl 2.0.21
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/thiserror
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/thiserror
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 tiny-skia 0.11.4
-授權：BSD-3-Clause
-網址：https://github.com/RazrFalcon/tiny-skia
+授權 / License: BSD-3-Clause
+網址 / URL: https://github.com/RazrFalcon/tiny-skia
 ========================================================================
 
 [LICENSE]
@@ -5972,16 +6151,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ========================================================================
 tiny-skia-path 0.11.4
-授權：BSD-3-Clause
-網址：https://github.com/RazrFalcon/tiny-skia/tree/master/path
+授權 / License: BSD-3-Clause
+網址 / URL: https://github.com/RazrFalcon/tiny-skia/tree/master/path
 ========================================================================
 
 [LICENSE] 和上面「tiny-skia 0.11.4」的條文相同。
+[LICENSE] Same text as "tiny-skia 0.11.4" above.
 
 ========================================================================
 tracing 0.1.44
-授權：MIT
-網址：https://github.com/tokio-rs/tracing
+授權 / License: MIT
+網址 / URL: https://github.com/tokio-rs/tracing
 ========================================================================
 
 [LICENSE]
@@ -6013,19 +6193,21 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 tracing-core 0.1.36
-授權：MIT
-網址：https://github.com/tokio-rs/tracing
+授權 / License: MIT
+網址 / URL: https://github.com/tokio-rs/tracing
 ========================================================================
 
 [LICENSE] 和上面「tracing 0.1.44」的條文相同。
+[LICENSE] Same text as "tracing 0.1.44" above.
 
 ========================================================================
 ttf-parser 0.25.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/harfbuzz/ttf-parser
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/harfbuzz/ttf-parser
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2018 Yevhenii Reizner
@@ -6050,28 +6232,32 @@ THE SOFTWARE.
 
 ========================================================================
 typed-path 0.12.4
-授權：MIT OR Apache-2.0
-網址：https://github.com/chipsenkbeil/typed-path
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/chipsenkbeil/typed-path
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 typeid 1.0.3
-授權：MIT OR Apache-2.0
-網址：https://github.com/dtolnay/typeid
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/dtolnay/typeid
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 typenum 1.20.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/paholg/typenum
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/paholg/typenum
 ========================================================================
 
 [LICENSE]
@@ -6305,21 +6491,24 @@ SOFTWARE.
 
 ========================================================================
 unicode-general-category 1.1.0
-授權：Apache-2.0
-網址：https://github.com/yeslogic/unicode-general-category
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/yeslogic/unicode-general-category
 ========================================================================
 
 [LICENSE] 和上面「crc32fast 1.5.2」的條文相同。
+[LICENSE] Same text as "crc32fast 1.5.2" above.
 
 ========================================================================
 unicode-ident 1.0.27
-授權：(MIT OR Apache-2.0) AND Unicode-3.0
-網址：https://github.com/dtolnay/unicode-ident
+授權 / License: (MIT OR Apache-2.0) AND Unicode-3.0
+網址 / URL: https://github.com/dtolnay/unicode-ident
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 [LICENSE-UNICODE]
 UNICODE LICENSE V3
@@ -6364,13 +6553,15 @@ authorization of the copyright holder.
 
 ========================================================================
 unicode-segmentation 1.13.3
-授權：MIT OR Apache-2.0
-網址：https://github.com/unicode-rs/unicode-segmentation
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/unicode-rs/unicode-segmentation
 ========================================================================
 
 [COPYRIGHT] 和上面「euclid 0.22.14」的條文相同。
+[COPYRIGHT] Same text as "euclid 0.22.14" above.
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2015 The Rust Project Developers
@@ -6401,11 +6592,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 uuid 1.28.0
-授權：Apache-2.0 OR MIT
-網址：https://github.com/uuid-rs/uuid
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/uuid-rs/uuid
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 Copyright (c) 2014 The Rust Project Developers
@@ -6437,11 +6629,12 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 vello_common 0.1.0
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/vello
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/vello
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT]
 Copyright 2020 the Vello Authors
@@ -6472,18 +6665,20 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 vello_cpu 0.1.0
-授權：Apache-2.0 OR MIT
-網址：https://github.com/linebender/vello
+授權 / License: Apache-2.0 OR MIT
+網址 / URL: https://github.com/linebender/vello
 ========================================================================
 
 [LICENSE-APACHE] 和上面「arboard 3.7.0」的條文相同。
+[LICENSE-APACHE] Same text as "arboard 3.7.0" above.
 
 [LICENSE-MIT] 和上面「vello_common 0.1.0」的條文相同。
+[LICENSE-MIT] Same text as "vello_common 0.1.0" above.
 
 ========================================================================
 web-time 1.1.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/daxpedda/web-time
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/daxpedda/web-time
 ========================================================================
 
 [LICENSE-APACHE]
@@ -6714,8 +6909,8 @@ SOFTWARE.
 
 ========================================================================
 windows 0.62.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0]
@@ -6946,156 +7141,185 @@ windows 0.62.2
 
 ========================================================================
 windows_x86_64_msvc 0.52.6
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-collections 0.3.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-core 0.62.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-future 0.3.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-implement 0.60.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-interface 0.59.3
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-link 0.2.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-numerics 0.3.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-result 0.4.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-strings 0.5.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-sys 0.52.0
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-sys 0.61.2
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-targets 0.52.6
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 windows-threading 0.2.1
-授權：MIT OR Apache-2.0
-網址：https://github.com/microsoft/windows-rs
+授權 / License: MIT OR Apache-2.0
+網址 / URL: https://github.com/microsoft/windows-rs
 ========================================================================
 
 [license-apache-2.0] 和上面「windows 0.62.2」的條文相同。
+[license-apache-2.0] Same text as "windows 0.62.2" above.
 
 [license-mit] 和上面「windows 0.62.2」的條文相同。
+[license-mit] Same text as "windows 0.62.2" above.
 
 ========================================================================
 winit 0.30.13
-授權：Apache-2.0
-網址：https://github.com/rust-windowing/winit
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/rust-windowing/winit
 ========================================================================
 
 [LICENSE] 和上面「crc32fast 1.5.2」的條文相同。
+[LICENSE] Same text as "crc32fast 1.5.2" above.
 
 ========================================================================
 zerocopy 0.8.63
-授權：BSD-2-Clause OR Apache-2.0 OR MIT
-網址：https://github.com/google/zerocopy
+授權 / License: BSD-2-Clause OR Apache-2.0 OR MIT
+網址 / URL: https://github.com/google/zerocopy
 ========================================================================
 
 [LICENSE-APACHE]
@@ -7356,8 +7580,8 @@ DEALINGS IN THE SOFTWARE.
 
 ========================================================================
 zip 8.6.0
-授權：MIT
-網址：https://github.com/zip-rs/zip2
+授權 / License: MIT
+網址 / URL: https://github.com/zip-rs/zip2
 ========================================================================
 
 [LICENSE]
@@ -7385,8 +7609,8 @@ SOFTWARE.
 
 ========================================================================
 zlib-rs 0.6.8
-授權：Zlib
-網址：https://github.com/trifectatechfoundation/zlib-rs
+授權 / License: Zlib
+網址 / URL: https://github.com/trifectatechfoundation/zlib-rs
 ========================================================================
 
 [LICENSE]
@@ -7412,16 +7636,17 @@ freely, subject to the following restrictions:
 
 ========================================================================
 zmij 1.0.23
-授權：MIT
-網址：https://github.com/dtolnay/zmij
+授權 / License: MIT
+網址 / URL: https://github.com/dtolnay/zmij
 ========================================================================
 
 [LICENSE-MIT] 和上面「adler2 2.0.1」的條文相同。
+[LICENSE-MIT] Same text as "adler2 2.0.1" above.
 
 ========================================================================
 zopfli 0.8.4
-授權：Apache-2.0
-網址：https://github.com/zopfli-rs/zopfli
+授權 / License: Apache-2.0
+網址 / URL: https://github.com/zopfli-rs/zopfli
 ========================================================================
 
 [COPYING]
@@ -7629,11 +7854,12 @@ zopfli 0.8.4
 
 ========================================================================
 zune-core 0.5.3
-授權：MIT OR Apache-2.0 OR Zlib
-網址：https://github.com/etemesi254/zune-image
+授權 / License: MIT OR Apache-2.0 OR Zlib
+網址 / URL: https://github.com/etemesi254/zune-image
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT]
 MIT License
@@ -7681,13 +7907,16 @@ freely, subject to the following restrictions:
 
 ========================================================================
 zune-jpeg 0.5.15
-授權：MIT OR Apache-2.0 OR Zlib
-網址：https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg
+授權 / License: MIT OR Apache-2.0 OR Zlib
+網址 / URL: https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg
 ========================================================================
 
-[LICENSE-APACHE] 和上面「Rust 標準函式庫」的條文相同。
+[LICENSE-APACHE] 和上面「Rust 標準函式庫 / Rust standard library」的條文相同。
+[LICENSE-APACHE] Same text as "Rust 標準函式庫 / Rust standard library" above.
 
 [LICENSE-MIT] 和上面「zune-core 0.5.3」的條文相同。
+[LICENSE-MIT] Same text as "zune-core 0.5.3" above.
 
 [LICENSE-ZLIB] 和上面「zune-core 0.5.3」的條文相同。
+[LICENSE-ZLIB] Same text as "zune-core 0.5.3" above.
 

@@ -1,8 +1,10 @@
-﻿# 第三方元件
+﻿# 第三方元件 / Third-party components
 
 本程式使用的第三方元件共 166 個，下表列出各元件的套件、版本、授權與網址；各元件的授權全文在同一個資料夾的 THIRD_PARTY_LICENSES.txt。
 
-| 套件 | 版本 | 授權 | 網址 |
+This app uses 166 third-party components. The table below lists the package, version, license, and URL of each component; the full license text of each component is in THIRD_PARTY_LICENSES.txt in the same folder.
+
+| 套件 Package | 版本 Version | 授權 License | 網址 URL |
 |------|------|------|------|
 | accesskit | 0.24.1 | MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit |
 | accesskit_consumer | 0.35.0 | MIT OR Apache-2.0 | https://github.com/AccessKit/accesskit |
